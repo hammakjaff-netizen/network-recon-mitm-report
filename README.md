@@ -11,7 +11,6 @@ The report covers:
 - Vulnerability scanning and findings
 
 ## File
-- `Network Reconnaissance and.Man-in-the-Middle Attack Simulation Report.docx`
-
+- https://github.com/hammakjaff-netizen/network-recon-mitm-report/blob/4225b94ff7fbf83106bbd796fa2234d823664ba8/Network%20Reconnaissance%20and.Man-in-the-Middle%20Attack%20Simulation%20Report.pdf
 ## Notes
 This project was conducted in an isolated virtual lab for authorized technical assessment and documentation purposes.
